@@ -518,10 +518,10 @@
   ----------------------------------------------------- Приложения --------------------------------------------------------------------------
   {
     name="MineOS/Applications/MineCode IDE",
-    url="IgorTimofeev/OpenComputers/master/Applications/MineCodeIDE/MineCodeIDE.lua",
-    about="IgorTimofeev/OpenComputers/master/Applications/MineCodeIDE/About/",
+    url="Ealtec/MineOS/master/Applications/MineCodeIDE/MineCodeIDE.lua",
+    about="MineOS/Applications/MineCodeIDE/About/",
     type="Application",
-    icon="IgorTimofeev/OpenComputers/master/Applications/MineCodeIDE/Icon.pic",
+    icon="MineOS/Applications/MineCodeIDE/Icon.pic",
     createShortcut="dock",
     forceDownload=true,
     version=1.61,
@@ -534,6 +534,10 @@
         name="Localization/English.lang",
         url="IgorTimofeev/OpenComputers/master/Applications/MineCodeIDE/Localization/English.lang"
       },
+      {
+        name="Localization/French.lang",
+        url="Ealtec/MineOS/master/Applications/MineCodeIDE/Localization/French.lang"
+      },      
     }
   },
   {
@@ -1019,8 +1023,8 @@
   -- },
   {
     name="MineOS/Applications/AppMarket",
-    url="IgorTimofeev/OpenComputers/master/Applications/AppMarket/AppMarket.lua",
-    about="IgorTimofeev/OpenComputers/master/Applications/AppMarket/About/",
+    url="Ealtec/MineOS/master/Applications/AppMarket/AppMarket.lua",
+    about="MineOS/Applications/AppMarket/About/",
     type="Application",
     icon="IgorTimofeev/OpenComputers/master/Applications/AppMarket/Icon.pic",
     createShortcut="dock",
@@ -1034,6 +1038,10 @@
       {
         name="Localization/English.lang",
         url="IgorTimofeev/OpenComputers/master/Applications/AppMarket/Localization/English.lang",
+      },
+      {
+        name="Localization/French.lang",
+        url="Ealtec/MineOS/Applications/AppMarket/Localization/French.lang",
       },
     },
   },
