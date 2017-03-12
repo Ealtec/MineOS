@@ -53,14 +53,14 @@
 	showApplicationIcons = "Afficher les icônes des applications",
 	hideApplicationIcons = "Cacher les icônes des applications",
 
-	aboutSystem = "À propos de PC",
+	aboutSystem = "À propos du PC",
 	updates = "Updates",
 	shutdown = "Arrêter",
 	logout = "Déconnexion",
 	reboot = "Redémarrer",
-	returnToShell = "Return to Shell",
+	returnToShell = "Retour au Shell",
 
-	protectYourComputer = "Protection de l'ordinateur",
+	protectYourComputer = "Protection du PC",
 	inputPassword = "Saisir mot de passe",
 	confirmInputPassword = "Confirmer le mod de passe",
 	oldPassword = "Ancien mot de passe",
