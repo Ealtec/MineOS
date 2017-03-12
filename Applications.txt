@@ -80,7 +80,7 @@
   },
     {
     name="MineOS/System/OS/Languages/French.lang",
-    url="Ealtec/MineOS/master/French.lang",
+    url="Ealtec/MineOS/master/French1.lang",
     type="Script",
     forceDownload=true,
     version=1.19,
