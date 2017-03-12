@@ -1,7 +1,10 @@
 Lisez attentivement les termes de cet accord de licence
 avant d'installer ce système d'exploitation.
 
+
 En cliquant sur "Accepter", vous acceptez ce qui suit:
+
+
 
                       GNU GENERAL PUBLIC LICENSE
 
