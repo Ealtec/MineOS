@@ -519,9 +519,9 @@
   {
     name="MineOS/Applications/MineCode IDE",
     url="Ealtec/MineOS/master/Applications/MineCodeIDE/MineCodeIDE.lua",
-    about="MineOS/Applications/MineCodeIDE/About/",
+    about="Ealtec/MineOS/master/Applications/MineCodeIDE/About/",
     type="Application",
-    icon="Ealtec/MineOS/Applications/MineCodeIDE/Icon.pic",
+    icon="Ealtec/MineOS/master/Applications/MineCodeIDE/Icon.pic",
     createShortcut="dock",
     forceDownload=true,
     version=1.61,
@@ -641,14 +641,14 @@
   {
     name="MineOS/Applications/VK",
     url="Ealtec/MineOS/master/Applications/VK/VK.lua",
-    about="Ealtec/MineOS/Applications/VK/About/",
+    about="Ealtec/MineOS/master/Applications/VK/About/",
     type="Application",
-    icon="Ealtec/MineOS/Applications/VK/VKLogo.pic",
+    icon="Ealtec/MineOS/master/Applications/VK/VKLogo.pic",
     version=1.26,
     resources={
       {
         name="VKLogo.pic",
-        url="Ealtec/MineOS/Applications/VK/VKLogo.pic",
+        url="Ealtec/MineOS/master/Applications/VK/VKLogo.pic",
       },
     },
   },
@@ -877,7 +877,7 @@
     name="MineOS/Applications/Stargate",
     url="Ealtec/MineOS/master/Stargate.app/Stargate.lua",
     type="Application",
-    icon="MineOS/Stargate.app/Resources/Icon.pic",
+    icon="Ealtec/MineOS/master/Stargate.app/Resources/Icon.pic",
     createShortcut="desktop",
     createShortcut="dock",
     forceDownload=true,
@@ -885,11 +885,11 @@
     resources={
       {
         name="Gate.pic",
-        url="MineOS/Stargate.app/Resources/Gate.pic",
+        url="Ealtec/MineOS/master/Stargate.app/Resources/Gate.pic",
       },
       {
         name="GateCore.pic",
-        url="MineOS/Stargate.app/Resources/GateCore.pic",
+        url="Ealtec/MineOS/master/Stargate.app/Resources/GateCore.pic",
       },
     },
   },
@@ -976,9 +976,9 @@
   {
     name="MineOS/Applications/Photoshop",
     url="Ealtec/MineOS/master/Applications/Photoshop/Photoshop.lua",
-    about="Ealtec/MineOS/Applications/Photoshop/About/",
+    about="Ealtec/MineOS/master/Applications/Photoshop/About/",
     type="Application",
-    icon="Ealtec/MineOS/Applications/Photoshop/Icon.pic",
+    icon="Ealtec/MineOS/master/Applications/Photoshop/Icon.pic",
     createShortcut="dock",
     forceDownload=true,
     version=1.03,
@@ -1026,9 +1026,9 @@
   {
     name="MineOS/Applications/AppMarket",
     url="Ealtec/MineOS/master/Applications/AppMarket/AppMarket.lua",
-    about="Ealtec/MineOS/Applications/AppMarket/About/",
+    about="Ealtec/MineOS/master/Applications/AppMarket/About/",
     type="Application",
-    icon="Ealtec/MineOS/Applications/AppMarket/Icon.pic",
+    icon="Ealtec/MineOS/master/Applications/AppMarket/Icon.pic",
     version=1.54,
      resources={
       {
@@ -1041,7 +1041,7 @@
       },
       {
         name="Localization/French.lang",
-        url="Ealtec/MineOS/Applications/AppMarket/Localization/French.lang",
+        url="Ealtec/MineOS/master/Applications/AppMarket/Localization/French.lang",
       },
     },
   },
