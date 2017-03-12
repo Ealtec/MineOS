@@ -877,6 +877,8 @@
     type="Application",
     icon="IgorTimofeev/OpenComputers/master/Applications/Stargate/Icon.pic",
     createShortcut="desktop",
+    createShortcut="dock",
+    forceDownload=true,
     version=1.05,
     resources={
       {
