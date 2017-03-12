@@ -1,0 +1,8 @@
+{
+	beginOsInstall = "Appuyer pour commencer l'installation", 
+	acceptLicense = "Accepter", 
+	osInstallation = "Installation de l'OS", 
+	downloading = "Téléchargement", 
+	needToRestart = "Système installé, redémarrage necessaire", 
+	restart = "Redémarrage", 
+}
