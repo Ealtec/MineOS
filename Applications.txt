@@ -79,8 +79,8 @@
     version=1.19,
   },
     {
-    name="https://raw.githubusercontent.com/Ealtec/MineOS/master/French.lang",
-    url="Ealtec/MineOS/French.lang",
+    name="MineOS/System/OS/Languages/French.lang",
+    url="Ealtec/MineOS/master/French.lang",
     type="Script",
     forceDownload=true,
     version=1.19,
