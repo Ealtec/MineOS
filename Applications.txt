@@ -1,4 +1,3 @@
-# MineOS
 {
   GitHubUserURL="https://raw.githubusercontent.com/",
   GitHubApplicationListURL="https://raw.githubusercontent.com/Ealtec/MineOS/master/Applications.txt",
