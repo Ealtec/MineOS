@@ -878,8 +878,8 @@
     url="Ealtec/MineOS/master/Stargate.app/Stargate.lua",
     type="Application",
     icon="Ealtec/MineOS/master/Stargate.app/Resources/Icon.pic",
-    createShortcut="desktop",
     createShortcut="dock",
+    createShortcut="desktop",    
     forceDownload=true,
     version=1.05,
     resources={
@@ -979,7 +979,6 @@
     about="Ealtec/MineOS/master/Applications/Photoshop/About/",
     type="Application",
     icon="Ealtec/MineOS/master/Applications/Photoshop/Icon.pic",
-    createShortcut="desktop",
     forceDownload=true,
     version=1.03,
     resources={
