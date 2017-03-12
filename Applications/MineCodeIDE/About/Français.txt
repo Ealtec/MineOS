@@ -1,0 +1,1 @@
+MineCode IDE est un outil puissant pour le développement de toute application que vous voulez. Il prend en charge Lua coloration syntaxique, la sélection de texte et de copier / coller, de couleurs définies par l'utilisateur et beau gestionnaire de fichiers intégré.
