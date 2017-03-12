@@ -979,7 +979,7 @@
     about="Ealtec/MineOS/master/Applications/Photoshop/About/",
     type="Application",
     icon="Ealtec/MineOS/master/Applications/Photoshop/Icon.pic",
-    createShortcut="dock",
+    createShortcut="desktop",
     forceDownload=true,
     version=1.03,
     resources={
