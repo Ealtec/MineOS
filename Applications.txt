@@ -79,7 +79,7 @@
     version=1.19,
   },
     {
-    name="MineOS/System/OS/Languages/French.lang",
+    name="MineOS/System/OS/Languages/Français.lang",
     url="Ealtec/MineOS/master/French1.lang",
     type="Script",
     forceDownload=true,
@@ -535,7 +535,7 @@
         url="IgorTimofeev/OpenComputers/master/Applications/MineCodeIDE/Localization/English.lang"
       },
       {
-        name="Localization/French.lang",
+        name="Localization/Français.lang",
         url="Ealtec/MineOS/master/Applications/MineCodeIDE/Localization/French.lang"
       },      
     }
@@ -991,7 +991,7 @@
         url="IgorTimofeev/OpenComputers/master/Applications/Photoshop/Localization/English.lang"
       },
       {
-        name="Localization/French.lang",
+        name="Localization/Français.lang",
         url="Ealtec/MineOS/master/Applications/Photoshop/Localization/French.lang"
       },
     }
@@ -1039,7 +1039,7 @@
         url="IgorTimofeev/OpenComputers/master/Applications/AppMarket/Localization/English.lang",
       },
       {
-        name="Localization/French.lang",
+        name="Localization/Français.lang",
         url="Ealtec/MineOS/master/Applications/AppMarket/Localization/French.lang",
       },
     },
