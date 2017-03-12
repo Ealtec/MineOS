@@ -1,7 +1,3 @@
-
-
-
-
 local ecs = require("ECSAPI")
 local fs = require("filesystem")
 local image = require("image")
@@ -128,7 +124,7 @@ local function drawSG()
   buttons.connectButton = GUI.framedButton(x, y, buttonWidth, 3, lineColor, lineColor, pressColor, pressColor, "Connexion directe", stargateState == "Connected"):draw(); y = y + 3
   buttons.disconnectButton = GUI.framedButton(x, y, buttonWidth, 3, lineColor, lineColor, pressColor, pressColor, "Déconnexion", stargateState ~= "Connected"):draw(); y = y + 3
   buttons.messageButton = GUI.framedButton(x, y, buttonWidth, 3, lineColor, lineColor, pressColor, pressColor, "Message", stargateState ~= "Connected"):draw(); y = y + 3
-  buttons.closeIrisButton = GUI.framedButton(x, y, buttonWidth, 3, lineColor, lineColor, pressColor, pressColor, irisState == "Closed" and "Overture Iris" or "Fermeture Iris", irisState == "Offline"):draw(); y = y + 3
+  buttons.closeIrisButton = GUI.framedButton(x, y, buttonWidth, 3, lineColor, lineColor, pressColor, pressColor, irisState == "Closed" and "Ouvrir Iris" or "Fermer Iris", irisState == "Offline"):draw(); y = y + 3
 
   y = y + 1
   centerText(y, lineColor, "Contacts"); y = y + 2
@@ -200,7 +196,7 @@ while true do
           if data[2] == "OK" then
             connectSG(data[1])
           end
-        elseif button.text == "Overture Iris" then
+        elseif button.text == "Ouvrir Iris" then
           stargate.openIris()
         elseif button.text == "Ajouter" then
           local remoteAddress = stargate.remoteAddress()
@@ -246,7 +242,7 @@ while true do
             end
             drawAll()
           end
-        elseif button.text == "Fermeture Iris" then
+        elseif button.text == "Fermer Iris" then
           stargate.closeIris()
         elseif button.text == "Déconnexion" then
           stateOfChevrons(false)
