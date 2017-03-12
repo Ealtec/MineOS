@@ -66,14 +66,14 @@
   },
   {
     name="MineOS/System/OS/Languages/Russian.lang",
-    url="IgorTimofeev/OpenComputers/master/MineOS/Languages/Russian.lang",
+    url="Ealtec/MineOS/master/Russian1.lang",
     type="Script",
     forceDownload=true,
     version=1.19,
   },
   {
     name="MineOS/System/OS/Languages/English.lang",
-    url="IgorTimofeev/OpenComputers/master/MineOS/Languages/English.lang",
+    url="Ealtec/MineOS/master/English1.lang",
     type="Script",
     forceDownload=true,
     version=1.19,
