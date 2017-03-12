@@ -1,7 +1,7 @@
 # MineOS
 {
   GitHubUserURL="https://raw.githubusercontent.com/",
-  GitHubApplicationListURL="https://raw.githubusercontent.com/Ealtec/MineOS/master/Application.txt",
+  GitHubApplicationListURL="https://raw.githubusercontent.com/Ealtec/MineOS/master/Applications.txt",
   ----------------------------------------------------- Все для ОС --------------------------------------------------------------------------
   {
     name="OS.lua",
