@@ -521,7 +521,7 @@
     url="Ealtec/MineOS/master/Applications/MineCodeIDE/MineCodeIDE.lua",
     about="MineOS/Applications/MineCodeIDE/About/",
     type="Application",
-    icon="MineOS/Applications/MineCodeIDE/Icon.pic",
+    icon="Ealtec/MineOS/Applications/MineCodeIDE/Icon.pic",
     createShortcut="dock",
     forceDownload=true,
     version=1.61,
@@ -640,17 +640,15 @@
   },
   {
     name="MineOS/Applications/VK",
-    url="IgorTimofeev/OpenComputers/master/Applications/VK/VK.lua",
-    about="IgorTimofeev/OpenComputers/master/Applications/VK/About/",
+    url="Ealtec/MineOS/master/Applications/VK/VK.lua",
+    about="Ealtec/MineOS/Applications/VK/About/",
     type="Application",
-    icon="IgorTimofeev/OpenComputers/master/Applications/VK/Icon.pic",
-    createShortcut="desktop",
-    forceDownload=true,
+    icon="Ealtec/MineOS/Applications/VK/VKLogo.pic",
     version=1.26,
     resources={
       {
         name="VKLogo.pic",
-        url="IgorTimofeev/OpenComputers/master/Applications/VK/VKLogo.pic",
+        url="Ealtec/MineOS/Applications/VK/VKLogo.pic",
       },
     },
   },
@@ -977,10 +975,10 @@
   },
   {
     name="MineOS/Applications/Photoshop",
-    url="IgorTimofeev/OpenComputers/master/Applications/Photoshop/Photoshop.lua",
-    about="IgorTimofeev/OpenComputers/master/Applications/Photoshop/About/",
+    url="Ealtec/MineOS/master/Applications/Photoshop/Photoshop.lua",
+    about="Ealtec/MineOS/Applications/Photoshop/About/",
     type="Application",
-    icon="IgorTimofeev/OpenComputers/master/Applications/Photoshop/Icon.pic",
+    icon="Ealtec/MineOS/Applications/Photoshop/Icon.pic",
     createShortcut="dock",
     forceDownload=true,
     version=1.03,
@@ -992,6 +990,10 @@
       {
         name="Localization/English.lang",
         url="IgorTimofeev/OpenComputers/master/Applications/Photoshop/Localization/English.lang"
+      },
+      {
+        name="Localization/French.lang",
+        url="Ealtec/MineOS/master/Applications/Photoshop/Localization/French.lang"
       },
     }
   },
@@ -1024,11 +1026,9 @@
   {
     name="MineOS/Applications/AppMarket",
     url="Ealtec/MineOS/master/Applications/AppMarket/AppMarket.lua",
-    about="MineOS/Applications/AppMarket/About/",
+    about="Ealtec/MineOS/Applications/AppMarket/About/",
     type="Application",
-    icon="IgorTimofeev/OpenComputers/master/Applications/AppMarket/Icon.pic",
-    createShortcut="dock",
-    forceDownload=true,
+    icon="Ealtec/MineOS/Applications/AppMarket/Icon.pic",
     version=1.54,
      resources={
       {
