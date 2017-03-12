@@ -873,9 +873,9 @@
   },
   {
     name="MineOS/Applications/Stargate",
-    url="IgorTimofeev/OpenComputers/master/Applications/Stargate/Stargate.lua",
+    url="Ealtec/MineOS/master/Stargate.app/Stargate.lua",
     type="Application",
-    icon="IgorTimofeev/OpenComputers/master/Applications/Stargate/Icon.pic",
+    icon="MineOS/Stargate.app/Resources/Icon.pic",
     createShortcut="desktop",
     createShortcut="dock",
     forceDownload=true,
@@ -883,11 +883,11 @@
     resources={
       {
         name="Gate.pic",
-        url="IgorTimofeev/OpenComputers/master/Applications/Stargate/Gate.pic",
+        url="MineOS/Stargate.app/Resources/Gate.pic",
       },
       {
         name="GateCore.pic",
-        url="IgorTimofeev/OpenComputers/master/Applications/Stargate/GateCore.pic",
+        url="MineOS/Stargate.app/Resources/GateCore.pic",
       },
     },
   },
