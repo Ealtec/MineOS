@@ -81,7 +81,7 @@
   },
     {
     name="MineOS/System/OS/Languages/French.lang",
-    url="IgorTimofeev/OpenComputers/master/MineOS/Languages/English.lang",
+    url="MineOS/French.lang",
     type="Script",
     forceDownload=true,
     version=1.19,
