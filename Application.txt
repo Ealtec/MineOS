@@ -1,7 +1,7 @@
 # MineOS
 {
   GitHubUserURL="https://raw.githubusercontent.com/",
-  GitHubApplicationListURL="https://raw.githubusercontent.com/IgorTimofeev/OpenComputers/master/Applications.txt",
+  GitHubApplicationListURL="https://raw.githubusercontent.com/Ealtec/MineOS/Application.txt",
   ----------------------------------------------------- Все для ОС --------------------------------------------------------------------------
   {
     name="OS.lua",
@@ -81,7 +81,7 @@
   },
     {
     name="MineOS/System/OS/Languages/French.lang",
-    url="MineOS/French.lang",
+    url="Ealtec/MineOS/French.lang",
     type="Script",
     forceDownload=true,
     version=1.19,
