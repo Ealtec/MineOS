@@ -1,0 +1,15 @@
+Lisez attentivement les termes de cet accord de licence
+avant d'installer ce système d'exploitation.
+
+En cliquant sur "Accepter", vous acceptez ce qui suit:
+   ● Certaines de vos données personnelles (logins, mots de passe
+     Pastebin.com ou VK.com) peuvent être lus par d'autres personnes et
+     utilisé à des fins personnelles.
+   ● Vous ne devez pas distribuer cet OS, ainsi que son
+     des composants individuels
+   ● Vous acceptez le fait que l'auteur de cet OS
+     est pas légalement responsable de toute physique ou
+     blessure mentale que vous pouvez obtenir en utilisant ce système d'exploitation.
+    
+Si vous n'êtes pas d'accord avec tout terme ci-dessus, vous devez appuyer sur
+la combinaison de touches Ctrl + Alt + C pour quitter le Programme d'installation.
