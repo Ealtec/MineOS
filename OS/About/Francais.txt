@@ -1,0 +1,1 @@
+Tel est le principal fichier MineOS exécutables, qui contient toutes les fonctionnalités de base et contrôle des bibliothèques comme MineOSCore, Doublebuffering, GUI et ECSAPI.

@@ -1,0 +1,28 @@
+Niveau 2 et 3 écrans peuvent agir comme des écrans tactiles - ne pas attacher un clavier ou furtivement-activer.
+Vous pouvez changer la taille du texte sur les écrans en changeant leur résolution - exécuter `résolution 40 16` dans la coquille.
+Firing flèches sur les écrans tactiles capables peut déclencher des événements tactiles.
+couleurs de l'article indiquent leur niveau - blanc est tier one, jaune est à deux niveaux et le cyan est de niveau trois.
+Utiliser un analyseur pour obtenir plus d'informations sur les blocs - par exemple, pour savoir pourquoi un ordinateur est écrasé.
+Claviers doivent être attachés ou placés à côté d'un écran pour travailler.
+Vous pouvez installer OpenOS sur un support inscriptible en exécutant le programme `install`.
+Cartes d'Internet peuvent être utilisés pour faire des requêtes HTTP et ouvrir les connexions TCP brutes.
+Si vous conçu quelque chose par erreur ou ne pas besoin plus longtemps, le jeter dans un désassembleur.
+Jetez un oeil sur le code des programmes intégrés pour des exemples sur la façon d'utiliser les API.
+La plupart des programmes peuvent être interrompus en appuyant sur Ctrl + Alt + C.
+Coller le contenu du presse-papiers à l'aide du bouton central de la souris ou une touche configurable (par défaut: insert).
+Les ordinateurs consomment moins d'énergie au ralenti - à savoir lorsque os.sleep (n> 0,05) est appelée.
+Les écrans consomment plus de puissance des personnages les plus éclairés qu'ils affichent.
+La plupart des blocs agissent comme des «câbles» - l'utilisation des commutateurs et des distributeurs de puissance pour créer des réseaux distincts.
+Bienvenue du côté obscur - ici, avoir des cookies.
+Les écrans peuvent afficher Unicode - coller les caractères spéciaux ou d'utiliser unicode.char.
+Exécutez `help` or` homme programname` pour ingame aide sur les programmes livrés avec OpenOS - commencer par` man man`.
+Pour plus d'aide, il y a un wiki à http://ocdoc.cil.li/ - ou de trouver le disque IRC de butin et rejoindre #oc.
+Les ordinateurs ont un très basique, haut-parleur intégré - contrôler à l'aide de computer.beep ().
+De nombreuses méthodes de composants ont une courte documentation - utilisent `= component.componentName.methodName` dans l'interpréteur Lua pour le voir.
+Vous pouvez obtenir une liste de tous les composants attachés à l'aide du programme `components`.
+Si vous rencontrez des erreurs de mémoire, jeter plus de RAM à votre ordinateur.
+Avez-vous essayé de l'éteindre et de nouveau?
+Pour désactiver cette salutation, installer OpenOS à un support inscriptible et supprimer `/ etc / motd`.
+Saviez-vous que OpenComputers a un forum? Non? Eh bien, il est à http://oc.cil.li/.
+S'il vous plaît rapporter des bugs sur la question suivi Github, je vous remercie!
+Méfiez-vous des cycles lors de la construction des réseaux, ou vous pouvez obtenir des messages en double!
