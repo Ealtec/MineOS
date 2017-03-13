@@ -260,7 +260,7 @@
   },
   {
     name="MineOS/System/OS/EFI.lua",
-    url="IgorTimofeev/OpenComputers/master/MineOS/EFI.lua",
+    url="IEaltec/MineOS/master/OS/EFI.lua",
     type="Library",
     forceDownload=true,
     version=1.0,
