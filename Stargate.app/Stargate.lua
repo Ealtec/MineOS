@@ -117,7 +117,7 @@ local function drawSG()
   x = x + 3
   local buttonWidth = buffer.screen.width - x - 1
   centerText(y, lineColor, "Stargate " .. stargate.localAddress()); y = y + 1
-  centerText(y, 0x888888, stargateState == "Connected" and "(Connectée à" .. remoteAddress .. ")" or "(est relié)"); y = y + 1
+  centerText(y, 0x888888, stargateState == "Connected" and "(Connectée à " .. remoteAddress .. ")" or "(est relié)"); y = y + 1
 
 
   y = y + 1
