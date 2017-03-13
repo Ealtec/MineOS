@@ -118,7 +118,7 @@
   },
   {
     name="MineOS/System/OS/Icons/Computer.pic",
-    url="Ealtec/MineOS/master/OS/Computer.pic",
+    url="Ealtec/MineOS/master/OS/Icons/Computer.pic",
     type="Icon",
     version=1.0,
   },
@@ -260,7 +260,7 @@
   },
   {
     name="MineOS/System/OS/EFI.lua",
-    url="IEaltec/MineOS/master/OS/EFI.lua",
+    url="Ealtec/MineOS/master/OS/EFI.lua",
     type="Library",
     forceDownload=true,
     version=1.0,
